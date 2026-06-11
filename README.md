@@ -87,7 +87,7 @@ No internet permission. No location. No data collection of any kind.
 
 ### Quick build on Linux/Kali
 ```bash
-git clone https://github.com/YOUR_USERNAME/vpn-indicator-android.git
+git clone https://github.com/goldalchemist/VpnIndicator.git
 cd vpn-indicator-android
 chmod +x build.sh
 ./build.sh <your-device-ip>    # builds AND deploys to device
